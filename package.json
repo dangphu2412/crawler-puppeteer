@@ -1,0 +1,20 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "This is sample for crawling data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "nodejs",
+    "express",
+    "crawler"
+  ],
+  "author": "dangphu2412",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^6.0.0"
+  }
+}
